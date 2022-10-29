@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm codingassistance</h1>
+<h1 align="center">Hi 👋, I'm Vaishnavi Shet</h1>
 <h3 align="center">Iam passinate about Full-Stack Development</h3>
 
 - 🌱 I’m currently learning **Ui/Ux**
