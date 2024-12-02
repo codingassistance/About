@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Vaishnavi Shet
-Pursuing B.E in the field of Computer Science and Engineering from NMAM Institute of Technology.<br>Iam having keen interest in graphic designing and Full-Stack Development.
+B.E graduate in the field of Computer Science and Engineering from NMAM Institute of Technology.
 
 
 # 💻 Tech Stack:
